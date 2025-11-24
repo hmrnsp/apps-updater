@@ -1,7 +1,7 @@
 {
-  "version": "",
-  "notes": "",
-  "pub_date": "",
+  "version": "1.0.1",
+  "notes": "Update terbaru",
+  "pub_date": "2024-02-01T12:00:00Z",
   "platforms": {
     "linux-x86_64": {
       "signature": "",
@@ -9,7 +9,7 @@
     },
     "windows-x86_64": {
       "signature": "",
-      "url": ""
+      "url": "https://github.com/hmrnsp/apps-updater/archive/refs/tags/1.0.1.zip"
     },
     "darwin-x86_64": {
       "signature": "",
